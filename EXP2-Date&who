@@ -3,7 +3,7 @@ Basic Linux Commands with Working
 - `date` – Displays the current date and time on the screen.
 - `who` – Displays the users currently logged into the system.
 - `date; who > file.txt` – Displays the date on screen and saves the output of `who` in a file.
-- `who > users.txt` – Stores the output of the `who` command in a file.
+- `who > users.txt` – Stores the output of the `who` command in a file. 
 - `who >> users.txt` – Adds the output of `who` to an existing file.
 - `ls` – Displays files and directories.
 - `pwd` – Shows the current working directory.
