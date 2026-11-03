@@ -6,3 +6,4 @@
 - `-f "$1"` – Checks whether the given argument is a regular file.
 - `else` – Executes when both conditions are false.
 - `fi` – Ends the if-else condition.
+ 
