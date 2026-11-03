@@ -8,7 +8,7 @@
 8. `$1` – Stores the filename passed as the first argument.
 9. `$2` – Stores the starting line number passed as the second argument.
 10. `$3` – Stores the ending line number passed as the third argument.
-11. `sed` – Used to search, edit and display text from a file.
+11. `sed` – Used to search, edit and display text from a file. 
 12. `-n` – Prevents automatic printing of lines.
 13. `p` – Prints the selected lines.
 14. `"${start},${end}p"` – Specifies the range of lines to be displayed, from the starting line to the ending line.
