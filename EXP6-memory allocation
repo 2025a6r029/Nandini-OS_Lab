@@ -1,0 +1,19 @@
+1. `stdio.h` – Used for input and output.
+2. `stdlib.h` – Used for memory allocation functions.
+3. `unistd.h` – Used for the `sleep()` function.
+4. `argc` – Stores the number of arguments.
+5. `argv[]` – Stores the arguments passed to the program.
+6. `char *ptr` – Creates a pointer to store the memory address.
+7. `atoi()` – Converts a string into an integer.
+8. `malloc()` – Allocates memory dynamically.
+9. `NULL` – Checks whether memory allocation failed.
+10. `1024 * 1024` – Converts MB into bytes.
+11. `for` – Repeats statements.
+12. `ptr[i] = 'A'` – Fills the allocated memory with the character A.
+13. `while(1)` – Runs the program continuously.
+14. `sleep(1)` – Pauses the program for one second.
+15. `free()` – Releases allocated memory.
+16. `gcc` – Compiles the C program.
+17. `free -h` – Displays memory usage.
+18. `watch -n 1` – Updates memory information every second.
+19. `Ctrl + C` – Stops the running program.
