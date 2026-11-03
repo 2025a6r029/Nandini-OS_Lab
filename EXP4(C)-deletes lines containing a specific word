@@ -1,0 +1,11 @@
+1. `#!/bin/bash` – Tells the system to execute the script using the Bash shell.
+2. `$1` – Represents the first argument, which contains the specified word.
+3. `shift` – Removes the first argument and shifts the remaining arguments to the left.
+4. `for` – Repeats the commands for each filename supplied as an argument.
+5. `"$@"` – Represents all the remaining arguments (filenames).
+6. `do` – Starts the execution of commands inside the loop.
+7. `sed` – Used to search, edit and modify text in files.
+8. `-i` – Makes changes directly in the original file.
+9. `"/$word/d"` – Searches for lines containing the specified word and deletes those lines.
+10. `done` – Marks the end of the loop.
+11. `echo` – Displays a success message on the screen.
