@@ -5,7 +5,7 @@ ls:   Lists files and folders
 ls -l: Shows detailed list
 ls -a	: Shows hidden files
 ls -lh	: Shows file sizes in readable format
-cd:  folder	Enters a folder
+cd:  folder	Enters a folder 
 cd ..	: Goes one directory back
 cd ../..	:Goes two directories back
 cd ~: Goes to home directory
