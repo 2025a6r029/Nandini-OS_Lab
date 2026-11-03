@@ -1,0 +1,19 @@
+1. `stdio.h` – Used for input and output.
+2. `unistd.h` – Provides the `sleep()` function.
+3. `main()` – Starting point of a C program.
+4. `while(1)` – Runs a loop continuously.
+5. `i++` – Increases the value of a variable by one.
+6. `printf()` – Displays output on the screen.
+7. `sleep(1)` – Pauses program execution for one second.
+8. `gcc` – Compiles a C program.
+9. `&` – Runs a program in the background.
+10. `top` – Displays running processes and their CPU and memory usage.
+11. `top -u username` – Displays processes of a particular user.
+12. `top -p PID` – Displays a specific process.
+13. `top -d 1` – Refreshes process information every one second.
+14. `PID` – Identifies a running process.
+15. `%CPU` – Shows the CPU usage of a process.
+16. `%MEM` – Shows the memory usage of a process.
+17. `jobs` – Displays background jobs.
+18. `kill` – Terminates a running process.
+19. `q` – Exits the `top` command.
