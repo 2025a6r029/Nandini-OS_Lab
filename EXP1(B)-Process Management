@@ -10,7 +10,7 @@
 8. `sleep 100 &` – Runs a process in the background.
 9. `jobs` – Displays background jobs in the current terminal.
 10. `fg` – Brings a background process to the foreground.
-11. `bg` – Resumes a stopped process in the background.
+11. `bg` – Resumes a stopped process in the background. 
 12. `kill PID` – Sends a termination signal to a process.
 13. `kill -9 PID` – Forcefully terminates a process.
 14. `pkill process_name` – Terminates processes using their names.
