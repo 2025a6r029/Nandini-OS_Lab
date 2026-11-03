@@ -1,0 +1,4 @@
+in points togther
+who – Displays the users currently logged into the system, along with their login details.
+awk – Reads and processes text to extract specific columns or fields, such as usernames.
+exit – Terminates the execution of a shell script or exits the current shell; exit 0 indicates success, while exit 1 generally indicates an error.
