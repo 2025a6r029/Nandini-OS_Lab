@@ -5,4 +5,4 @@
 - `tr 'a-z' 'A-Z'` – Converts lowercase letters into uppercase.
 - `mv "$file" "$newname"` – Renames the original file with the new uppercase name.
 - `echo "Renamed to $newname"` – Displays the new file name.
-- `done` – Ends the loop.
+- `done` – Ends the loop. 
