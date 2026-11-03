@@ -1,0 +1,15 @@
+1. `pmap` – Displays the memory map of a running process.
+2. `PID` – Process ID used to identify a running process.
+3. `pmap PID` – Displays the memory map of a specific process.
+4. `pmap -x PID` – Displays detailed memory information of a process.
+5. `top` – Displays running processes and their resource usage.
+6. `ps` – Displays information about running processes.
+7. `ps aux` – Displays all running processes with their details.
+8. `grep` – Searches for a specific process by name.
+9. `&` – Runs a program in the background.
+10. `kill` – Terminates a running process.
+11. `Address` – Shows the starting memory address of a memory section.
+12. `Kbytes` – Shows the size of a memory section in kilobytes.
+13. `RSS` – Shows the amount of physical memory used by a process.
+14. `Dirty` – Shows memory pages that have been modified.
+15. `total` – Displays the total memory used by the process.
